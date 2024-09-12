@@ -43,6 +43,7 @@ count = 0;
             count++;
 
         }
+        System.out.println("total objects created --> "+(count+1));
 
         
     }
